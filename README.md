@@ -1,2 +1,2 @@
 # empty-repo
-This is a empty repo for our test
+This is an empty repo for our test
